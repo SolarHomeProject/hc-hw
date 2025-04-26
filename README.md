@@ -1,6 +1,9 @@
 # hc-hw
 Hardware documentation for HomeControl Panel
 
+* Schematic
+[Schematic](HomeControl.pdf "Schematic")
+
 * Front
 ![](imgs/IMG_8920.jpeg?raw=true "Front site")
 
